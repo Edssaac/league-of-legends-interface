@@ -1,6 +1,6 @@
 ## Apresentação Geral
 
-**Nome do Projeto:** League of Legends Login Interface
+**Nome do Projeto:** League of Legends Interface
 
 **Descrição:**
 
